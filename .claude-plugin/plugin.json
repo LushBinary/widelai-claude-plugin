@@ -1,0 +1,23 @@
+{
+  "name": "widelai",
+  "version": "1.0.0",
+  "description": "Ask Gemini, GPT, Kimi, GLM and other Claude models on your WidelAI account from Claude, compare their answers side by side, get a second opinion on plans and diffs, and search your WidelAI conversations.",
+  "author": {
+    "name": "LushBinary",
+    "email": "connect@lushbinary.com",
+    "url": "https://lushbinary.com"
+  },
+  "homepage": "https://www.widelai.com/integrations/claude",
+  "repository": "https://github.com/LushBinary/widelai-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "second opinion",
+    "compare ai models",
+    "gemini",
+    "gpt",
+    "kimi",
+    "glm",
+    "code review",
+    "multi-model"
+  ]
+}

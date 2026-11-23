@@ -1,0 +1,25 @@
+{
+  "name": "widelai",
+  "owner": {
+    "name": "LushBinary",
+    "email": "connect@lushbinary.com"
+  },
+  "metadata": {
+    "description": "The WidelAI plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "widelai",
+      "source": "./",
+      "description": "Ask and compare Gemini, GPT, Kimi, GLM and Claude models on your WidelAI account, and get a second opinion on plans and diffs.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LushBinary",
+        "email": "connect@lushbinary.com"
+      },
+      "homepage": "https://www.widelai.com/integrations/claude",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

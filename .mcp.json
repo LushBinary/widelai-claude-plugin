@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "widelai": {
+      "type": "http",
+      "url": "https://api.widelai.com/mcp/claude/widelai"
+    }
+  }
+}
